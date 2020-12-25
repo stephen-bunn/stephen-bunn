@@ -5,6 +5,8 @@
 ![fears: Snakes](https://img.shields.io/badge/fears-Snakes%20%F0%9F%90%8D-lightgrey)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=stephen-bunn&theme=dracula&show_icons=true&count_private=true)
+<br/>
+![Github Trophys](https://github-profile-trophy.vercel.app/?username=stephen-bunn&theme=dracula&column=4&margin-w=8&margin-h=8)
 
 I'm a full stack dev working on learning new things and creating new projects.
 I work primarily in Python and various web stacks.
