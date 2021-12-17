@@ -4,8 +4,11 @@
 ![likes: Music + Rain + Coffee](https://img.shields.io/badge/likes-Music%20%F0%9F%8E%B5%2B%20Rain%20%F0%9F%8C%A7%20%2B%20Coffee%20%E2%98%95%EF%B8%8F-blue)
 ![fears: Snakes](https://img.shields.io/badge/fears-Snakes%20%F0%9F%90%8D-lightgrey)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=stephen-bunn&theme=dracula&show_icons=true&count_private=true)
-<br/>
+<div style="display: grid; grid-gap: 1rem; grid-template-columns: 1fr 1fr; grid-template-rows: 1fr;">
+  <img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=stephen-bunn&theme=dracula&show_icons=true&count_private=true" />
+  <img align="center" alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com?user=stephen-bunn&theme=dracula&date_format=M%20j%5B%2C%20Y%5D"/>
+</div>
+
 ![Github Trophys](https://github-profile-trophy.vercel.app/?username=stephen-bunn&theme=dracula&column=4&margin-w=8&margin-h=8)
 
 I'm a full stack dev working on learning new things and creating new projects.
