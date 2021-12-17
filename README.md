@@ -11,7 +11,7 @@
   <img align="center" alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com?user=stephen-bunn&theme=dracula&date_format=M%20j%5B%2C%20Y%5D"/>
 </a>
 
-![Github Trophys](https://github-profile-trophy.vercel.app/?username=stephen-bunn&theme=dracula&column=4&margin-w=8&margin-h=8)
+![Github Trophys](https://github-profile-trophy.vercel.app/?username=stephen-bunn&theme=dracula&column=8&margin-w=8&margin-h=8)
 
 I'm a full stack dev working on learning new things and creating new projects.
 I work primarily in Python and various web stacks.
