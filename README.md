@@ -32,13 +32,13 @@
 </p>
 
 <div>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=stephen-bunn&theme=graywhite&show_icons=true&count_private=true" />
-    </a>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img align="center" alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com?user=stephen-bunn&theme=graywhite&date_format=M%20j%5B%2C%20Y%5D"/>
-    </a>
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img alt="Github Trophys" src="https://github-profile-trophy.vercel.app/?username=stephen-bunn&theme=flat&column=7&margin-w=8&margin-h=8" />
-    </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=stephen-bunn&theme=graywhite&show_icons=true&count_private=true" />
+  </a>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img align="center" alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com?user=stephen-bunn&theme=graywhite&date_format=M%20j%5B%2C%20Y%5D"/>
+  </a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img alt="Github Trophys" src="https://github-profile-trophy.vercel.app/?username=stephen-bunn&theme=flat&column=7&margin-w=8&margin-h=8" />
+  </a>
 </div>
