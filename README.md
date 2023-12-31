@@ -20,7 +20,7 @@
       <strong>Email</strong> &mdash; <a href="mailto:stephen@bunn.io"><code>stephen@bunn.io</code></a>
     </div>
     <div>
-      <strong>Mastodon</strong> &mdash; <a rel="me" href="https://fosstodon.org/@stephenbunn"><code>@stephenbunn@fosstodon.org</code></a>
+      <strong>Mastodon</strong> &mdash; <a rel="me" href="https://social.lol/@st"><code>@st@social.lol</code></a>
     </div>
     <div>
       <strong>LinkedIn</strong> &mdash; <a href="https://www.linkedin.com/in/stephen-bunn/"><code>stephen-bunn</code></a>
