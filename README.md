@@ -13,5 +13,5 @@
   If you are interested in contacting me about open opportunities, please reach out with an email to <a href="mailto:hiring@bunn.io"><code>hiring@bunn.io</code></a>.
 </p>
 <p>
-  Otherwise, you can find me on <a rel="me" href="https://social.lol/@st">Mastodon</a> as  <a rel="me" href="https://social.lol/@st"><code>@st@social.lol</code></a>.
+  Otherwise, you can find me on <a rel="me" href="https://social.lol/@st">Mastodon</a>.
 </p>
