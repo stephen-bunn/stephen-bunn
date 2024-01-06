@@ -4,7 +4,7 @@
 
 <p>
   I'm a "full-stack" dev who mainly uses free time to create small tools for myself.
-  Most of my professional time has been spent working with Python-based backends and various JS frontends.
+  Most of my professional time has been spent working with Python, Rust, or various JS frontends.
   Mainly my experience has been focused on web development and internal engineering tools.
 </p>
 
