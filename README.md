@@ -10,7 +10,7 @@
 
 <p>
   If you would like to view more information about my experience, you can skim my resume at <a href="https://bunn.io/resume" target="_blank">bunn.io</a>.
-  If you are interested in contacting me about open opportunities, please reach out with an email to <a href="mailto:hiring@bunn.io"><code>hiring@bunn.io</code></a>.
+  If you are interested in contacting me about open opportunities, please reach out with an email to <a href="mailto:hey@bunn.io"><code>hey@bunn.io</code></a>.
 </p>
 <p>
   Otherwise, you can find me on <a rel="me" href="https://social.lol/@st">Mastodon</a>.
